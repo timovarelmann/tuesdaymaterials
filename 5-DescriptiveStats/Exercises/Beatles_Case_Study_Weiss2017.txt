@@ -1,0 +1,176 @@
+PPM	WTB	HDN	BFS	HLP	RBS	RVR	SPL	TBS	YSB	ABR	LIB	LENGTH	ALBUM
+110	108	109	106	114	125	121	80	52	130	23	41	110	PPM
+112	119	119	121	123	136	121	124	100	158	66	49	112	PPM
+119	124	131	122	124	138	127	157	105	194	72	145	119	PPM
+124	128	132	123	125	139	129	157	123	207	91	152	124	PPM
+125	129	135	132	128	143	135	158	124	227	96	172	125	PPM
+125	133	140	135	137	147	145	163	137	388	117	187	125	PPM
+142	136	140	143	138	147	149	164	138		125	213	142	PPM
+144	147	144	150	148	150	150	166	144		146	217	144	PPM
+146	149	152	151	149	153	157	169	148		165	217	146	PPM
+147	152	153	153	153	162	158	210	160		171	227	147	PPM
+153	156	158	153	155	163	159	217	162		183	232	153	PPM
+158	167	158	153	156	164	177	307	163		185	241	158	PPM
+175	167	166	163	173	170	181	333	163		207		175	PPM
+177	182		175	190	202	181		167		213		177	PPM
+								174		242		108	WTB
+								174		260		119	WTB
+								182		467		124	WTB
+								183				128	WTB
+								188				129	WTB
+								191				133	WTB
+								193				136	WTB
+								195				147	WTB
+								212				149	WTB
+								230				152	WTB
+								236				156	WTB
+								240				167	WTB
+								255				167	WTB
+								269				182	WTB
+								285				109	HDN
+								493				119	HDN
+												131	HDN
+												132	HDN
+												135	HDN
+												140	HDN
+												140	HDN
+												144	HDN
+												152	HDN
+												153	HDN
+												158	HDN
+												158	HDN
+												166	HDN
+												106	BFS
+												121	BFS
+												122	BFS
+												123	BFS
+												132	BFS
+												135	BFS
+												143	BFS
+												150	BFS
+												151	BFS
+												153	BFS
+												153	BFS
+												153	BFS
+												163	BFS
+												175	BFS
+												114	HLP
+												123	HLP
+												124	HLP
+												125	HLP
+												128	HLP
+												137	HLP
+												138	HLP
+												148	HLP
+												149	HLP
+												153	HLP
+												155	HLP
+												156	HLP
+												173	HLP
+												190	HLP
+												125	RBS
+												136	RBS
+												138	RBS
+												139	RBS
+												143	RBS
+												147	RBS
+												147	RBS
+												150	RBS
+												153	RBS
+												162	RBS
+												163	RBS
+												164	RBS
+												170	RBS
+												202	RBS
+												121	RVR
+												121	RVR
+												127	RVR
+												129	RVR
+												135	RVR
+												145	RVR
+												149	RVR
+												150	RVR
+												157	RVR
+												158	RVR
+												159	RVR
+												177	RVR
+												181	RVR
+												181	RVR
+												80	SPL
+												124	SPL
+												157	SPL
+												157	SPL
+												158	SPL
+												163	SPL
+												164	SPL
+												166	SPL
+												169	SPL
+												210	SPL
+												217	SPL
+												307	SPL
+												333	SPL
+												52	TBS
+												100	TBS
+												105	TBS
+												123	TBS
+												124	TBS
+												137	TBS
+												138	TBS
+												144	TBS
+												148	TBS
+												160	TBS
+												162	TBS
+												163	TBS
+												163	TBS
+												167	TBS
+												174	TBS
+												174	TBS
+												182	TBS
+												183	TBS
+												188	TBS
+												191	TBS
+												193	TBS
+												195	TBS
+												212	TBS
+												230	TBS
+												236	TBS
+												240	TBS
+												255	TBS
+												269	TBS
+												285	TBS
+												493	TBS
+												130	YSB
+												158	YSB
+												194	YSB
+												207	YSB
+												227	YSB
+												388	YSB
+												23	ABR
+												66	ABR
+												72	ABR
+												91	ABR
+												96	ABR
+												117	ABR
+												125	ABR
+												146	ABR
+												165	ABR
+												171	ABR
+												183	ABR
+												185	ABR
+												207	ABR
+												213	ABR
+												242	ABR
+												260	ABR
+												467	ABR
+												41	LIB
+												49	LIB
+												145	LIB
+												152	LIB
+												172	LIB
+												187	LIB
+												213	LIB
+												217	LIB
+												217	LIB
+												227	LIB
+												232	LIB
+												241	LIB
